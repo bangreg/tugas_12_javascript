@@ -1,1 +1,1 @@
-# tugas_12_javascript
+# tugas_12_js
